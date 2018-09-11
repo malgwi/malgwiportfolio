@@ -25,17 +25,17 @@ body {
 .box h1 {
     font-size: 40px;
     letter-spacing: 4px;
-    font-weight: 100;
+    font-weight: bold;
 }
 
 .box h5 {
     font-size: 20px;
     letter-spacing: 3px;
-    font-weight: 100;
+    font-weight: bold;
 }
 
 .box p {
-    text-align: justify;
+    text-align: center;
 }
 
 ul {
